@@ -1,6 +1,7 @@
 # Logs
-logs
+test/**
 *.log
+!03.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -31,7 +32,7 @@ coverage
 # Bower dependency directory (https://bower.io/)
 bower_components
 
-# node-waf configuration
+# node-waf configuration`Ω
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
